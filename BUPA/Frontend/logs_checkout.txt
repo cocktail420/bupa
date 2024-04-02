@@ -1,0 +1,5 @@
+MerchantRequestID=>40707-30254054-1
+CheckoutRequestID=>ws_CO_28022023125620526793601418
+ResponseCode=>0
+ResponseDescription=>Success. Request accepted for processing
+CustomerMessage=>Success. Request accepted for processing
